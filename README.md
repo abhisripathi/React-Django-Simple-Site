@@ -77,3 +77,6 @@ my-simple-site/
 
 4. The Django API can be accessed at http://127.0.0.1:8000/api/data/ and http://127.0.0.1:8000/api/items/.
 
+### Architecture Diagram Description:
+
+![AWS Tier 3 Architecture](https://github.com/user-attachments/assets/d6694c90-52c8-4681-8fc3-23a466d52b3d)
